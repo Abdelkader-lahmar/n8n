@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/n8n:1": {},
+    "ghcr.io/joedmck/devcontainer-features/cloudflared:1": {}
+  }
+}
